@@ -5,10 +5,11 @@ A Web + Android application platform that helps students look for internship oop
 ![image](https://user-images.githubusercontent.com/50701253/95002597-a82bca80-058a-11eb-8973-70e1f9931792.png)
 
 Below are a few snapshots from the project:
-Web application:
+
+## Web application:
 ![image](https://user-images.githubusercontent.com/50701253/95002916-1756ee00-058e-11eb-9b59-353fd2b460bb.png)
 
-Android mobile application:
+## Android mobile application:
 ![image](https://user-images.githubusercontent.com/50701253/95002837-58023780-058d-11eb-800c-1e8deef64c4f.png)
 
 #### Development Technology:
