@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	 version="3.1">
+    <display-name>EmailSendingWebApp</display-name>
+ 
+    <!-- SMTP settings -->
+    <context-param>
+        <param-name>host</param-name>
+        <param-value>smtp.gmail.com</param-value>
+    </context-param>
+ 
+    <context-param>
+        <param-name>port</param-name>
+        <param-value>587</param-value>
+    </context-param>
+ 
+    <context-param>
+        <param-name>user</param-name>
+        <param-value>rojinad328@nec.edu.np</param-value>
+    </context-param>
+ 
+    <context-param>
+        <param-name>pass</param-name>
+        <param-value>Letsgetcrazy33</param-value>
+    </context-param>
+ <servlet>
+    <servlet-name>CheckUsername</servlet-name>
+    <servlet-class>com.info.simple.CheckUsername</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>CheckUsername</servlet-name>
+    <url-pattern>/CheckUsername</url-pattern>
+</servlet-mapping>
+    <session-config>
+        <session-timeout>
+            120
+        </session-timeout>
+    </session-config>
+     <servlet>
+        <servlet-name>check</servlet-name>
+        <servlet-class>com.info.simple.CheckUsername</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>check</servlet-name>
+        <url-pattern>/check</url-pattern>
+    </servlet-mapping>
+      <servlet>
+        <servlet-name>check2</servlet-name>
+        <servlet-class>com.info.simple.CheckUsername2</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>check2</servlet-name>
+        <url-pattern>/check2</url-pattern>
+    </servlet-mapping>
+    
+
+</web-app>
