@@ -1,19 +1,23 @@
 
 # GoIntern
-A Web + Android application platform that helps students look for internships. This website was built by me (Rojina Deuja) and my classmate Roji Karna in 2014 for our minor project. It has not been maintained and was added her just for the purpose of referencing and looking back on older projects.
-I do not recommend that anyone refer to this code.
-
-Below are a few snapshots from the project:
+A Web + Android application platform that helps students look for internships. The platform was designed and developedin 2014 for a college minor project. It has not been maintained and was added here just for the purpose of referencing and looking back on older projects. I **do not** recommend that anyone refer to this code.
 
 ![image](https://user-images.githubusercontent.com/50701253/95002597-a82bca80-058a-11eb-8973-70e1f9931792.png)
 
-### Development Technology:
-#### Tools :Net beans IDE 8.1, Android Studio 2.1.2
-#### Programming : Java, HTML, CSS, JavaScript, PHP
-#### Technology: JSP, JSON
-#### Database: MySQL 
+Below are a few snapshots from the project:
+Web application:
+![image](https://user-images.githubusercontent.com/50701253/95002916-1756ee00-058e-11eb-9b59-353fd2b460bb.png)
 
+Android mobile application:
+![image](https://user-images.githubusercontent.com/50701253/95002837-58023780-058d-11eb-800c-1e8deef64c4f.png)
 
+#### Development Technology:
+Tools:Net beans IDE 8.1, Android Studio 2.1.2
+Programming: Java, HTML, CSS, JavaScript, PHP
+Technology: JSP, JSON
+Database: MySQL 
+
+++++++++++++++++++++++++++++++++
 
 Author: Rojina Deuja
 Last Update: 10-03-2020
