@@ -12,10 +12,11 @@ Android mobile application:
 ![image](https://user-images.githubusercontent.com/50701253/95002837-58023780-058d-11eb-800c-1e8deef64c4f.png)
 
 #### Development Technology:
-Tools:Net beans IDE 8.1, Android Studio 2.1.2
-Programming: Java, HTML, CSS, JavaScript, PHP
-Technology: JSP, JSON
-Database: MySQL 
+- Tools:Net beans IDE 8.1, Android Studio 2.1.2
+
+- Programming: Java (JSP), HTML, CSS, JavaScript
+
+- Database: MySQL 
 
 ++++++++++++++++++++++++++++++++
 
