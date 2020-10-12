@@ -15,7 +15,7 @@ Below are a few snapshots from the project:
 #### Development Technology:
 - Tools: Net beans IDE 8.1, Android Studio 2.1.2
 
-- Programming: Java (JSP), HTML, CSS, JavaScript
+- Programming: Java (Android), Java (JSP), HTML, CSS, JavaScript
 
 - Database: MySQL 
 
